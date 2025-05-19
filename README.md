@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&color=87CEEB&center=true&vCenter=true&width=700&height=80&duration=3000&pause=1000&repeat=false&lines=Welcome+to+my+GitHub+profile!">
 </div>
 
-### <div align="center">I'm Ivona Ercegovac, a young developer based in Croatia who likes puzzles - one line of code or game level at a time :)<br/>Here you will find some of the projects and skills I've been working on. Feel free to explore and reach out.</div>
+### <div align="center">I'm Ivona Ercegovac, a Junior Developer based in Croatia who likes puzzles - one block of code or game level at a time :)<br/>Here you will find some of the projects and skills I've been working on. Feel free to explore and reach out.</div>
 
 <div align="center"> 
   <a href="mailto:ivonaa.e@gmail.com">
@@ -25,8 +25,8 @@ link za portfolio
 </h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,visualstudio,wordpress,figma,git,github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=py,js,ts,express,nodejs,cs,dotnet,supabase,mongodb,postgres,postman,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,mui,html,css,vscode,visualstudio,wordpress,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,express,nodejs,cs,dotnet,nestjs,prisma,supabase,postgres,postman,docker,yarn&theme=dark" />
 </div>
 
 ---
